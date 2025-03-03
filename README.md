@@ -10,7 +10,7 @@ Drum-Game is a fun and interactive virtual drum kit built with **HTML, CSS, and 
 ## 🌜 Usage  
 1. Clone the repository:  
    ```sh  
-   git clone https://github.com/your-username/Drum-Game.git  
+   git clone https://github.com/JatinPhogat/Drum-Game/
    ```  
 2. Open the project folder and run `index.html` in a browser.  
 
